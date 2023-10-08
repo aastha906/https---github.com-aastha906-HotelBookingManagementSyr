@@ -1,0 +1,5 @@
+2023-10-07 13:19:39.885  WARN 9492 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/HotelManagement/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2023-10-07 13:19:39.894  INFO 9492 --- [restartedMain] com.cg.HotelManagementApplication        : No active profile set, falling back to default profiles: default
+2023-10-07 13:19:55.554  WARN 9492 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-10-07 13:19:57.585  INFO 9492 --- [restartedMain] com.cg.HotelManagementApplication        : Started HotelManagementApplication in 21.146 seconds (JVM running for 22.999)
+2023-10-07 13:24:47.290  INFO 9492 --- [http-nio-8002-exec-2] com.cg.hotel.util.HotelController        : Inside createHotel() method of HotelController

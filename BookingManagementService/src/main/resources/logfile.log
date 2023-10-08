@@ -1,0 +1,5 @@
+2023-10-07 14:10:00.232  WARN 16188 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/BookingManagement/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2023-10-07 14:10:00.236  INFO 16188 --- [restartedMain] c.c.BookingManagementServiceApplication  : No active profile set, falling back to default profiles: default
+2023-10-07 14:10:13.246  WARN 16188 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-10-07 14:10:15.092  INFO 16188 --- [restartedMain] c.c.BookingManagementServiceApplication  : Started BookingManagementServiceApplication in 17.64 seconds (JVM running for 19.105)
+2023-10-07 14:12:52.751  INFO 16188 --- [http-nio-8003-exec-2] com.cg.util.BookingController            : Inside addBooking() method of BookingController

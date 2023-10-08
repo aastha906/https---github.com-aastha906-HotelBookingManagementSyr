@@ -1,0 +1,5 @@
+2023-10-07 12:53:08.743  WARN 10956 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/UserViewService/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2023-10-07 12:53:08.750  INFO 10956 --- [restartedMain] com.cg.UserViewServiceApplication        : No active profile set, falling back to default profiles: default
+2023-10-07 12:53:19.130  WARN 10956 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-10-07 12:53:19.158  WARN 10956 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-10-07 12:53:21.797  INFO 10956 --- [restartedMain] com.cg.UserViewServiceApplication        : Started UserViewServiceApplication in 16.381 seconds (JVM running for 18.401)

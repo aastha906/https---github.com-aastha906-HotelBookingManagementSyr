@@ -1,0 +1,5 @@
+2023-10-07 12:55:13.828  WARN 10804 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/UserUpdateService/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2023-10-07 12:55:13.836  INFO 10804 --- [restartedMain] com.cg.UserUpdateServiceApplication      : No active profile set, falling back to default profiles: default
+2023-10-07 12:55:24.496  WARN 10804 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-10-07 12:55:24.529  WARN 10804 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-10-07 12:55:26.801  INFO 10804 --- [restartedMain] com.cg.UserUpdateServiceApplication      : Started UserUpdateServiceApplication in 16.362 seconds (JVM running for 17.935)

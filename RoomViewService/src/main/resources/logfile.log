@@ -1,0 +1,6 @@
+2023-10-07 12:58:09.528  WARN 11200 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/RoomViewService/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2023-10-07 12:58:09.544  INFO 11200 --- [restartedMain] com.cg.RoomViewServiceApplication        : No active profile set, falling back to default profiles: default
+2023-10-07 12:58:20.093  WARN 11200 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-10-07 12:58:21.789  WARN 11200 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-10-07 12:58:21.816  WARN 11200 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-10-07 12:58:23.993  INFO 11200 --- [restartedMain] com.cg.RoomViewServiceApplication        : Started RoomViewServiceApplication in 21.027 seconds (JVM running for 23.936)

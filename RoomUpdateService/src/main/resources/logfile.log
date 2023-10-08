@@ -1,0 +1,5 @@
+2023-10-07 13:06:21.771  WARN 10064 --- [restartedMain] c.c.c.ConfigServicePropertySourceLocator : Could not locate PropertySource: I/O error on GET request for "http://localhost:8888/RoomUpdateService/default": Connection refused: no further information; nested exception is java.net.ConnectException: Connection refused: no further information
+2023-10-07 13:06:21.778  INFO 10064 --- [restartedMain] com.cg.RoomUpdateServiceApplication      : No active profile set, falling back to default profiles: default
+2023-10-07 13:06:29.581  WARN 10064 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-10-07 13:06:29.609  WARN 10064 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-10-07 13:06:31.251  INFO 10064 --- [restartedMain] com.cg.RoomUpdateServiceApplication      : Started RoomUpdateServiceApplication in 12.415 seconds (JVM running for 14.234)
