@@ -9,5 +9,4 @@ http://localhost:9768
 For Swagger:
 http://localhost:port_no/swagger-ui.html
 
-For the H2 database:
-http://localhost:port_no/h2-console, update JDBC URL: jdbc:h2:mem:testdb and and leave the password field blank.
+
